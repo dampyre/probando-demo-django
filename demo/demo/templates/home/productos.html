@@ -1,0 +1,41 @@
+{% extends 'base.html'%}
+{% block title %}
+	Lista de productos
+{% endblock title %}
+{% block content %}
+
+<h2>catalogo de productos</h2>
+<br>
+{# modificacion solo usuarios logueados #}
+{% if user.is_authenticated %}
+<a href="{% url vista_agregar_producto  %}" class="btn btn-success" title=""> Agregar Producto</a>
+<a href="{% url vista_agregar_stock  %}" class="btn btn-success" title=""> Agregar Stock</a>
+<hr />
+{% endif %}
+<br>
+<div class="table-bordered">
+	{%if productos%}
+		{% for p in productos%}
+			<p> <a href="/productos/{{p.id}}/"> {{p.id}} .- {{p.nombre}} </a></p>
+		{%endfor%}
+	{%else%}
+		<h2>No hay productos activos</h2>
+	{% endif%}
+</div>
+{% if productos%}
+	<a href="/productos/page/1" title=""> << </a>
+	{% if  productos.has_previous%}
+		<a href="/productos/page/{{productos.previous_page_number}}" title="">Prev</a>
+	{% else %}
+		<a href="#" title="Prev">Prev</a>	
+	{% endif %}
+
+	{% if  productos.has_next%}
+		<a href="/productos/page/{{productos.next_page_number}}" title="">Next</a>
+	{% else %}
+		<a href="#" title="Next">Next</a>	
+	{% endif %}
+	<a href="/productos/page/{{productos.paginator.num_pages}}"> >> </a>
+	<h4>Pagina {{productos.number}} de {{productos.paginator.num_pages}}</h4>
+{%endif%}
+{% endblock content %}

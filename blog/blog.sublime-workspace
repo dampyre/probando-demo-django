@@ -1,0 +1,673 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"re",
+				"request	Default"
+			],
+			[
+				"is_",
+				"is_valid	Default"
+			],
+			[
+				"Pro",
+				"ProductoForm	Default"
+			],
+			[
+				"me",
+				"method	Default"
+			],
+			[
+				"pro",
+				"producto	Default"
+			],
+			[
+				"P",
+				"ProductoForm	Default"
+			],
+			[
+				"form",
+				"formulario	Default"
+			],
+			[
+				"in",
+				"input	Tag"
+			],
+			[
+				"inf",
+				"informacion"
+			],
+			[
+				"i",
+				"input	Tag"
+			],
+			[
+				"fo",
+				"form	Default"
+			],
+			[
+				"for",
+				"form	Default"
+			],
+			[
+				"html",
+				"html_content	Default"
+			],
+			[
+				"tet",
+				"texto	Default"
+			],
+			[
+				"T",
+				"titulo"
+			],
+			[
+				"cle",
+				"cleaned_data	Default"
+			],
+			[
+				"app",
+				"apps	Default"
+			],
+			[
+				"nom",
+				"nombre	Default"
+			],
+			[
+				"model",
+				"models	Default"
+			],
+			[
+				"max",
+				"max_lenght	Default"
+			],
+			[
+				"mo",
+				"models	Default"
+			],
+			[
+				"Sa",
+				"Sab"
+			],
+			[
+				"ale",
+				"alert"
+			],
+			[
+				"IN",
+				"INPUT	Tag"
+			],
+			[
+				"h",
+				"h2	Tag"
+			],
+			[
+				"ele",
+				"elementById"
+			],
+			[
+				"input",
+				"input	input - button"
+			],
+			[
+				"lis",
+				"lista	Default"
+			],
+			[
+				"ara",
+				"armar_presupuesto	Default"
+			],
+			[
+				"cal",
+				"calcular_neto	Default"
+			],
+			[
+				"calcu",
+				"calcular_iva	Default"
+			],
+			[
+				"set",
+				"set_cliente	Default"
+			],
+			[
+				"enc",
+				"encabezado_nombre	Default"
+			],
+			[
+				"rw",
+				"raw_input()	raw_input fn"
+			],
+			[
+				"raw",
+				"raw_input()	raw_input fn"
+			],
+			[
+				"pa",
+				"path	Default"
+			],
+			[
+				"num_",
+				"num_regs"
+			],
+			[
+				"im",
+				"imagen_generica"
+			],
+			[
+				"jpg",
+				"jpg"
+			],
+			[
+				"un",
+				"unlinkl"
+			],
+			[
+				"ru",
+				"ruta"
+			],
+			[
+				"fun",
+				"funcion"
+			],
+			[
+				"borra",
+				"borrar_imagenes"
+			],
+			[
+				"img",
+				"img_reajustada"
+			],
+			[
+				"nu",
+				"nuevo_alto_img"
+			],
+			[
+				"nuevo",
+				"nuevo_ancho_img"
+			],
+			[
+				"nue",
+				"nuevo_alto_img"
+			],
+			[
+				"an",
+				"ancho_img"
+			],
+			[
+				"alto",
+				"alto_img"
+			],
+			[
+				"qu",
+				"query"
+			],
+			[
+				"eje",
+				"ejecuta_consulta"
+			],
+			[
+				"ima",
+				"imagen"
+			],
+			[
+				"na",
+				"nacimiento"
+			],
+			[
+				"se",
+				"sexo"
+			],
+			[
+				"con",
+				"consulta"
+			],
+			[
+				"incl",
+				"include"
+			],
+			[
+				"co",
+				"conexion"
+			],
+			[
+				"te",
+				"telefono"
+			],
+			[
+				"ri",
+				"right"
+			],
+			[
+				"bord",
+				"border"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"cur",
+				"cursor"
+			],
+			[
+				"jque",
+				"jquery"
+			],
+			[
+				"men",
+				"mensaje"
+			],
+			[
+				"cone",
+				"conectarse"
+			],
+			[
+				"mys",
+				"mysqli"
+			],
+			[
+				"la",
+				"label	Tag"
+			],
+			[
+				"label",
+				"label	<label>"
+			],
+			[
+				"tra",
+				"transition	CSS - transition: ;"
+			],
+			[
+				"no",
+				"none"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"ti",
+				"titulo"
+			],
+			[
+				"da",
+				"dampyre"
+			],
+			[
+				"em",
+				"email"
+			],
+			[
+				"CON",
+				"conexion"
+			],
+			[
+				"my",
+				"mysql_fetch_array"
+			],
+			[
+				"ej",
+				"ejecutar_consulta"
+			],
+			[
+				"n",
+				"nombre"
+			],
+			[
+				"cre",
+				"creacion_fichero	Default"
+			],
+			[
+				"read",
+				"readline()	file"
+			],
+			[
+				"ruta",
+				"rutacompleta	Default"
+			],
+			[
+				"prop",
+				"propietario	Default"
+			],
+			[
+				"ca",
+				"carpeta	Default"
+			],
+			[
+				"isdi",
+				"isdir	Default"
+			],
+			[
+				"ver",
+				"verificar	Default"
+			],
+			[
+				"ra",
+				"raw_input	Default"
+			],
+			[
+				"sele",
+				"SELECT	Tag"
+			],
+			[
+				"ap",
+				"apellido"
+			],
+			[
+				"op",
+				"option	Tag"
+			],
+			[
+				"li",
+				"link	Tag"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"w",
+				"write"
+			],
+			[
+				"doc",
+				"document"
+			],
+			[
+				"va",
+				"var	<var>"
+			],
+			[
+				"pr",
+				"prueba"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "blog/settings.py",
+			"settings":
+			{
+				"buffer_size": 5202,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "blog/urls.py",
+			"settings":
+			{
+				"buffer_size": 550,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 285.0,
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/dampyre/proyectos/crud/crud/templates/index.html",
+		"/home/dampyre/proyectos/crud/crud/urls.py",
+		"/home/dampyre/proyectos/demo/demo/apps/home/views.py",
+		"/home/dampyre/proyectos/demo/demo/settings.py",
+		"/home/dampyre/proyectos/demo/demo/templates/ventas/addProductos.html",
+		"/var/www/php5/arreglo.php",
+		"/var/www/php5/arreglo2.php",
+		"/var/www/php5/arreglo3.php",
+		"/var/www/php5/practico.php",
+		"/var/www/contactos/agregar_contacto.php",
+		"/var/www/js/index.html",
+		"/home/dampyre/Documentos/desarrollo/capitulo3/ppto.py",
+		"/home/dampyre/Documentos/desarrollo/ppto.py",
+		"/home/dampyre/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
+		"/var/www/contactos/index.php",
+		"/home/dampyre/proyectos/demo/demo/templates/home/about.html",
+		"/var/www/contactos/alta_contacto.php",
+		"/home/dampyre/proyectos/demo/demo/templates/index.html",
+		"/home/dampyre/proyectos/demo/demo/apps/urls.py",
+		"/home/dampyre/proyectos/demo/demo/urls.py",
+		"/home/dampyre/proyectos/demo/demo/templates/home/index.html",
+		"/home/dampyre/proyectos/demo/demo/apps/ventas/models.py",
+		"/home/dampyre/proyectos/demo/demo/apps/ventas/admin.py",
+		"/var/www/contactos/funciones.php",
+		"/var/www/clase.php",
+		"/var/www/contactos.sql",
+		"/var/www/contactos/pruebasbdd.php",
+		"/var/www/contactos/operacionesbdd.php",
+		"/var/www/contactos/js/mis_contactos.js",
+		"/var/www/contactos/css/mis_contactos.css",
+		"/var/www/contactos/mensaje.php",
+		"/var/www/contactos/select_pais.php",
+		"/var/www/contactos/conexion.php",
+		"/var/www/contactos/vaja_contacto.php",
+		"/var/www/contactos/home.php",
+		"/var/www/contactos/consultas_contacto.php",
+		"/var/www/contactos/cambios_contacto.php",
+		"/home/dampyre/Documentos/desarrollo/usuariosftp.py",
+		"/home/dampyre/Vídeos/otrophp/Curso Práctico de PHP - Cap 10 Operaciones Básicas en MySQL con PHP(480p_H.264-AAC).flv",
+		"/home/dampyre/.config/sublime-text-2/Packages/Package Control/Package Control.sublime-settings",
+		"/home/dampyre/Descargas/presupuesto.py",
+		"/home/dampyre/Documentos/desarrollo/pres.py",
+		"/var/www/php4/index.php",
+		"/var/www/php4/combo.php",
+		"/var/www/php3/index.php",
+		"/var/www/php3/formulario.php",
+		"/var/www/php3/recibe.php",
+		"/var/www/php2/respuesta.php",
+		"/var/www/php2/inicio.php",
+		"/var/www/less/index.html",
+		"/var/www/less/estilo.less",
+		"/var/www/css/estilo.css",
+		"/var/www/kazona/css/estilo.css",
+		"/var/www/kazona/index.html",
+		"/media/dampyre/76E293CBE2938DCD/wamp/www/havp.html",
+		"/media/dampyre/HP v165w/www/css/estilo.css",
+		"/var/www/neny/css/estilo.css",
+		"/var/www/neny/inicio.html",
+		"/var/www/neny/havp.html",
+		"/var/www/js/js35.html",
+		"/var/www/js/js36.html",
+		"/var/www/js/js33.html",
+		"/var/www/js/js33incremento.html",
+		"/var/www/js/js34.html",
+		"/etc/network/interfaces"
+	],
+	"find":
+	{
+		"height": 42.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"$ruta",
+			"$extencion",
+			"borrar_imagenes",
+			"/img/fotos/",
+			" </"
+		],
+		"highlight": true,
+		"in_selection": true,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"img/fotos/"
+		],
+		"reverse": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "blog/settings.py",
+					"settings":
+					{
+						"buffer_size": 5202,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "blog/urls.py",
+					"settings":
+					{
+						"buffer_size": 550,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 42.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 78.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 149.0,
+	"status_bar_visible": true
+}

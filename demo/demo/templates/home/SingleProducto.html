@@ -1,0 +1,17 @@
+{% extends 'base.html'%}
+{% block title %}
+	Producto {{producto.nombre}}
+{% endblock title %}
+{% block content %}
+	<h1>{{producto.nombre}}</h1>
+	<br />
+	<img src="/media/{{producto.imagen}}" width="150px" heigth="150px">
+	<p>{{producto.descripcion}}</p>
+	<p>Precio: ${{producto.precio}}</p>
+	<p>Cantidad Stock: {{producto.stock}} Unidades</p>
+	{% if producto.stock > 0 %}
+		<a href="#" class="btn btn-primary" >Comprar</a>
+	{% endif %}
+	<br><br>
+	<a href="javascript:window.history.go(-1)" class="btn btn-small btn-primary"> Regresar a productos</a>
+{% endblock content %}
