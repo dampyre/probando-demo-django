@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+	<meta charset="utf-8">
+	<title></title>
+</head>
+<body>
+<h1>Lista Usuarios</h1>
+{% for elemento in lista %}
+<ul>
+	<li><strong>{{elemento.nombre}}</strong></li>
+	<li>{{elemento.apellido}}</li>
+	<li>{{elemento.nick}}</li>
+</ul>
+{%endfor%}
+</body>
+
+</html>
